@@ -2,7 +2,7 @@
 
 Live Link: https://spaced-repetition-chi.vercel.app/
 
-Api-Repo: [API](https://github.com/nlomba1thinkful/Spaced-Repetition-Server-master 'API')
+Api-Repo: [API](https://github.com/nlomba1Thinkful/Spaced-Repetition-Server-master 'API')
 
 Client-Repo: [Client ](https://github.com/nlomba1Thinkful/Spaced-Repetition-Client-master 'Client ')
 
