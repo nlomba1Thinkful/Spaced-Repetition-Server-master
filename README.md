@@ -1,4 +1,4 @@
-# Spaced-Reprition Learning App
+# Spaced-Repetition Learning App
 
 Live Link: https://spaced-repetition-chi.vercel.app/
 
