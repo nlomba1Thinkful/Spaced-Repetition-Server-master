@@ -1,6 +1,6 @@
 # Spaced-Repetition Learning App
 
-Live Link: https://spaced-repetition-chi.vercel.app/
+Live Link:
 
 Api-Repo: [API](https://github.com/nlomba1Thinkful/Spaced-Repetition-Server-master 'API')
 
