@@ -1,8 +1,6 @@
 # Spaced-Repetition Learning App
 
-Live Link:
-
-Api-Repo: [API](https://github.com/nlomba1Thinkful/Spaced-Repetition-Server-master 'API')
+Live Link: [App] (https://spaced-repetition-client-master-7s40q8tnz-nlomba1thinkful.vercel.app/register 'App')
 
 Client-Repo: [Client ](https://github.com/nlomba1Thinkful/Spaced-Repetition-Client-master 'Client ')
 
